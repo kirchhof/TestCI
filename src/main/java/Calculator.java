@@ -1,9 +1,3 @@
-/*
- * Copyright (c)  RWTH Aachen. All rights reserved.
- *
- * http://www.se-rwth.de/
- */
-
 /**
  * Simple calculator for testing purpose
  *
